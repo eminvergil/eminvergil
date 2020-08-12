@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on:  platformer game (name will be announced soon)
 - 🌱 I’m currently learning: React , Gatsby , Contentful , Firebase ...
 - 📫 How to reach me: eminvergil@yahoo.com
+- 💬 Ask me about: [resume](eminvergil.github.io/resume)
 
 <!--
 **eminvergil/eminvergil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
