@@ -1,11 +1,12 @@
 ### Hi there 👋 This is Emin Vergil
 
-### I'm a passionate software developer living in Adana, Turkey. I am currenty working on my game, side projects. I love being part of development of web technologies. I build things on my GitHub profile (here). I love React and .Net Core.
+### I'm a passionate software developer living in Adana, Turkey. I am currenty working on my game, side projects. I love being part of development of web technologies. I build things on my GitHub profile (here). I love React and Gatsby,GraphQL.
 
 - 🔭 I’m currently working on:  platformer game (name will be announced soon)
 - 🌱 I’m currently learning: React , Gatsby , Contentful , Firebase ...
 - 📫 How to reach me: eminvergil@yahoo.com
-- 💬 Ask me about: [resume](https://eminvergil.github.io/resume/)
+- 💬 Ask me about: https://eminvergil.netlify.app/contact
+- Linkedin: https://www.linkedin.com/in/emin-vergil-b13731125/
 
 <!--
 **eminvergil/eminvergil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
