@@ -1,25 +1,26 @@
-### Hi there 👋 This is Emin Vergil
+# Emin Vergil
+## Developer 22y Adana Turkey
 
-### I'm a passionate software developer living in Adana, Turkey. I love being part of development of web technologies. I build things on my GitHub profile (here). I love React and Gatsby,GraphQL.
 
-- 🔭 I’m currently working on:  platformer game (name will be announced soon)
-- 🌱 I’m currently learning: React , Gatsby , Contentful , Firebase ...
-- 📫 How to reach me: eminvergil@yahoo.com
-- 💬 Ask me about: https://eminvergil.netlify.app/contact
-- Linkedin: https://www.linkedin.com/in/emin-vergil-b13731125/
+![Emin Vergil's github stats](https://github-readme-stats.vercel.app/api?username=eminvergil&show_icons=true&theme=radical)
 
-<!--
-**eminvergil/eminvergil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am currenty working on my game, side projects.
+- My Website : https://eminvergil.netlify.app/
+- Linkedin : https://www.linkedin.com/in/emin-vergil-b13731125/
 
-Here are some ideas to get you started:
+[![alt text][1.1]][1]
+[![alt text][6.1]][6]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: eminvergil@yahoo.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/eminvergil
+[6]: http://www.github.com/eminvergil
