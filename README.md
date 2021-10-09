@@ -44,7 +44,7 @@ I'm always interested in meeting new people, so feel free to reach out to me usi
 
 <p align="center">
   <a href="mailto:eminvergil@yahoo.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
-  <a href="https://linkedin.com/in/eminvergil"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a>
+  <a href="https://www.linkedin.com/in/emin-vergil/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a>
 </p>
 
 <p align="left">
