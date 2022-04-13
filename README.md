@@ -4,9 +4,6 @@ Hey ✋
 
 ![Emin Vergil's github stats](https://github-readme-stats.vercel.app/api?username=eminvergil&show_icons=true&theme=radical)
 
-- My Website : https://eminvergil.netlify.app/
-- Linkedin : https://www.linkedin.com/in/emin-vergil/
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eminvergil&layout=compact)
 
 
