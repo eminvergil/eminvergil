@@ -1,6 +1,17 @@
 
-
 Hey ✋
+
+I'm Emin Vergil, An enthusiastic software developer with more than 2 years of experience in the field. During the last two years, from front-end to back-end I have experience of developing a lot of applications using modern JavaScript frameworks and libraries.As a developer who thrives in agile teams, I have worked successfully with product owners, developers, and designers to achieve successful implementations. 
+
+ - 🧑‍💻Technologies: React, Redux, Gatsby, Tailwind, HTML/CSS, Hooks, Next.js
+ - 🎬Database: Firebase, MongoDB, PostgreSQL, MSSQL, Redis
+ - 🍁Learning: React Native, Kubernetes
+ - 🤠Pronouns: He/Him
+ - 🌎Location: 36.986270, 35.325080 - Adana, Turkey(GMT+03)
+ - 🏹Website: https://eminvergil.netlify.app/
+
+
+---
 
 ![Emin Vergil's github stats](https://github-readme-stats.vercel.app/api?username=eminvergil&show_icons=true&theme=radical)
 
