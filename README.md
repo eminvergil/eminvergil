@@ -5,10 +5,10 @@ I'm Emin Vergil, An enthusiastic software developer with more than 2 years of ex
 
  - 🧑‍💻Technologies: React, Redux, Gatsby, Tailwind, HTML/CSS, Hooks, Next.js, .Net Core
  - 🎬Database: Firebase, MongoDB, PostgreSQL, MSSQL, Redis
- - 🍁Learning: React Native, Kubernetes
  - 🤠Pronouns: He/Him
  - 🌎Location: 36.986270, 35.325080 - Adana, Turkey(GMT+03)
  - 🏹Website: https://eminvergil.netlify.app/
+ - Blog: https://dev.to/eminvergil
 
 
 ---
