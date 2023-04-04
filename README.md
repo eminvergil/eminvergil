@@ -1,15 +1,25 @@
 
+
 Hey ✋
 
-I'm Emin Vergil, An enthusiastic software developer with more than 2 years of experience in the field. During the last two years, from front-end to back-end I have experience of developing a lot of applications using modern JavaScript frameworks and libraries.As a developer who thrives in agile teams, I have worked successfully with product owners, developers, and designers to achieve successful implementations. 
+I'm Emin Vergil, a skilled software developer with 2+ years of experience in backend development using modern technologies such as .NET Framework. I excel at developing and deploying cloud-based infrastructure and collaborating with cross-functional teams to deliver high-quality software solutions. My experience includes working with databases, API development, and server-side programming languages. I am a proactive problem-solver who thrives in agile teams and has successfully implemented projects with product owners, developers, and designers.
 
- - 🧑‍💻Technologies: React, Redux, Gatsby, Tailwind, HTML/CSS, Hooks, Next.js, .Net Core
- - 🎬Database: Firebase, MongoDB, PostgreSQL, MSSQL, Redis
+ - 🧑‍💻Tools and technologies: Jenkins, RabbitMQ, Firebase, Supabase, MongoDB, PostgreSQL, MSSQL, Redis 
+ - 🧑‍💻Languages and frameworks: Typescript, JavaScript, C#, Next.js, Gatsby, ASP.Net Core, Entity Framework
  - 🤠Pronouns: He/Him
  - 🌎Location: 36.986270, 35.325080 - Adana, Turkey(GMT+03)
  - 🏹Website: https://eminvergil.netlify.app/
- - Blog: https://dev.to/eminvergil
+ - 🎲Blog: https://dev.to/eminvergil
 
+```
+    ___       ___       ___       ___            ___       ___       ___       ___       ___       ___   
+   /\  \     /\__\     /\  \     /\__\          /\__\     /\  \     /\  \     /\  \     /\  \     /\__\  
+  /::\  \   /::L_L_   _\:\  \   /:| _|_        /:/ _/_   /::\  \   /::\  \   /::\  \   _\:\  \   /:/  /  
+ /::\:\__\ /:/L:\__\ /\/::\__\ /::|/\__\      |::L/\__\ /::\:\__\ /::\:\__\ /:/\:\__\ /\/::\__\ /:/__/   
+ \:\:\/  / \/_/:/  / \::/\/__/ \/|::/  /      |::::/  / \:\:\/  / \;:::/  / \:\:\/__/ \::/\/__/ \:\  \   
+  \:\/  /    /:/  /   \:\__\     |:/  /        L;;/__/   \:\/  /   |:\/__/   \::/  /   \:\__\    \:\__\  
+   \/__/     \/__/     \/__/     \/__/                    \/__/     \|__|     \/__/     \/__/     \/__/
+ ```
 
 ### Skills
 
@@ -35,6 +45,7 @@ I'm Emin Vergil, An enthusiastic software developer with more than 2 years of ex
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/eminvergil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/eminvergil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eminvergil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/eminvergil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/eminv_en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+  
 
 
 <b>My GitHub Stats</b>
