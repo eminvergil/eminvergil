@@ -2,7 +2,7 @@
 
 Hey ✋
 
-I'm Emin Vergil, a skilled software developer with 2+ years of experience in backend development using modern technologies such as .NET Framework. I excel at developing and deploying cloud-based infrastructure and collaborating with cross-functional teams to deliver high-quality software solutions. My experience includes working with databases, API development, and server-side programming languages. I am a proactive problem-solver who thrives in agile teams and has successfully implemented projects with product owners, developers, and designers.
+I'm Emin Vergil, a skilled software developer with 2+ years of experience in backend development using modern technologies such as dotnet. I excel at developing and deploying cloud-based infrastructure and collaborating with cross-functional teams to deliver high-quality software solutions. My experience includes working with databases, API development, and server-side programming languages. I am a proactive problem-solver who thrives in agile teams and has successfully implemented projects with product owners, developers, and designers.
 
  - 🧑‍💻Tools and technologies: Jenkins, RabbitMQ, Firebase, Supabase, MongoDB, PostgreSQL, MSSQL, Redis 
  - 🧑‍💻Languages and frameworks: Typescript, JavaScript, C#, Next.js, Gatsby, ASP.Net Core, Entity Framework
