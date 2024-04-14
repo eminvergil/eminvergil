@@ -2,10 +2,10 @@
 
 Hey ✋
 
-I'm Emin Vergil, a skilled software developer with 2+ years of experience in backend development using modern technologies such as dotnet. My experience includes working with databases, API development, and server-side programming languages. I am a proactive problem-solver who thrives in agile teams and has successfully implemented projects with product owners, developers, and designers.
+I'm Emin Vergil, a skilled software developer with 3+ years of experience in backend development using modern technologies such as dotnet. My experience includes working with databases, API development, and server-side programming languages. I am a proactive problem-solver who thrives in agile teams and has successfully implemented projects with product owners, developers, and designers.
 
- - 🧑‍💻Tools & Technologies & Platforms: OAuth 2, OpenID Connect, NHibernate, Oracle, PostgreSQL, Redis, RabbitMQ, NGINX, Bitbucket, Git, Jenkins, Firebase, Supabase, MongoDB , MSSQL, Oracle, HAProxy 
- - 🧑‍💻Languages and frameworks: Typescript, JavaScript, C#, Next.js, Gatsby, ASP.Net Core, Entity Framework, Nhibernate
+ - 🧑‍💻Tools & Technologies & Platforms: OAuth 2, OpenID Connect, NHibernate, Oracle, PostgreSQL, Redis, RabbitMQ, NGINX, Bitbucket, Git, Jenkins, Firebase, Supabase, MongoDB , MSSQL, Oracle, HAProxy, Azure DevOps, Kubernetes, Istio
+ - 🧑‍💻Languages and frameworks: ASP.Net Core, Entity Framework
  - 🤠Pronouns: He/Him
  - 🌎Location: 36.986270, 35.325080 - Adana, Turkey(GMT+03)
  - 🏹Website: https://eminvergil.netlify.app/
