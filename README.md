@@ -15,7 +15,7 @@ I'm a skilled software developer with 3+ years of experience in backend developm
 
 ## 📫 Connect with Me
 
-- Email: eminvergil@yahoo.com
+- Email: eminvergil@outlook.com
 - Twitter: [@eminvergil](https://twitter.com/eminvergil)
 - LinkedIn: [Emin Vergil](https://www.linkedin.com/in/emin-vergil)
 - GitHub: [eminvergil](https://github.com/eminvergil)
