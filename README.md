@@ -3,7 +3,15 @@
 
 ## About Me
 
-I'm a skilled software developer with 3+ years of experience in backend development, specializing in modern technologies like .NET.
+Software developer with 4+ years of experience getting software from design into production.
+
+🛠 I can help your organisation with:
+
+- Backend development in .NET, cloud experience with Azure
+- Frontend development in Next.js, or other framework
+- Microservices
+
+I am a very open and communicative developer, with a strong focus on business value and the client or company goals. Skilled in all the phases of the software development lifecycle, from designing the architecture of a solution to automating deployments to production. Due to my experience working in startups and self-managing teams, I'm quickly able to adapt to new projects and technologies.
 
 ## 🛠 Skills & Technologies
 
@@ -35,13 +43,3 @@ I'm a skilled software developer with 3+ years of experience in backend developm
 - [How to Deploy a .NET Service on Low Budget](https://eminvergil.vercel.app/blog/deployment-to-linux)
 
 For more articles, visit my [blog](https://eminvergil.vercel.app/blog).
-
-## 📊 GitHub Stats
-
-![Emin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eminvergil&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eminvergil&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-
-## 🧩 LeetCode Stats
-
-![LeetCode Stats](https://leetcode.card.workers.dev/eminvergil?theme=dark&font=milonga&extension=null)
