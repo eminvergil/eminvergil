@@ -27,6 +27,7 @@ I am a very open and communicative developer, with a strong focus on business va
 - Twitter: [@eminvergil](https://twitter.com/eminvergil)
 - LinkedIn: [Emin Vergil](https://www.linkedin.com/in/emin-vergil)
 - GitHub: [eminvergil](https://github.com/eminvergil)
+- Bluesky: [@eminvergil.bsky.social](https://bsky.app/profile/eminvergil.bsky.social)
 
 ## 🧠 I'm interested in 
 * .NET, Cloud Native, Distributed Systems 
@@ -35,11 +36,9 @@ I am a very open and communicative developer, with a strong focus on business va
 * Productivity
 
 ## 📝 Latest Blog Posts
-
+- [Implementing Single Database Multi-Tenancy with EF Core Global Query Filters](https://eminvergil.vercel.app/blog/single-database-multi-tenancy-ef-core)
 - [Azure Emulators in .NET Aspire Development](https://eminvergil.vercel.app/blog/aspire-azure-emulators)
 - [Simplifying Microservice Deployment with Aspire and Aspir8](https://eminvergil.vercel.app/blog/aspire-kubernetes-deployment)
 - [An Alternative to Swagger in .NET 9](https://eminvergil.vercel.app/blog/scalar)
-- [Background Jobs in .NET](https://eminvergil.vercel.app/blog/background-jobs-dotnet)
-- [How to Deploy a .NET Service on Low Budget](https://eminvergil.vercel.app/blog/deployment-to-linux)
 
 For more articles, visit my [blog](https://eminvergil.vercel.app/blog).
