@@ -3,15 +3,15 @@
 
 ## About Me
 
-Software developer with 4+ years of experience getting software from design into production.
+Hi,
+
+My name is **Emin Vergil**, and I'm a Software Engineer at Twiser. I live in Adana, Turkey.
 
 🛠 I can help your organisation with:
 
 - Backend development in .NET, cloud experience with Azure
 - Frontend development in Next.js, or other framework
 - Microservices
-
-I am a very open and communicative developer, with a strong focus on business value and the client or company goals. Skilled in all the phases of the software development lifecycle, from designing the architecture of a solution to automating deployments to production. Due to my experience working in startups and self-managing teams, I'm quickly able to adapt to new projects and technologies.
 
 ## 🛠 Skills & Technologies
 
@@ -30,7 +30,7 @@ I am a very open and communicative developer, with a strong focus on business va
 - Bluesky: [@eminvergil.bsky.social](https://bsky.app/profile/eminvergil.bsky.social)
 
 ## 🧠 I'm interested in 
-* .NET, Cloud Native, Distributed Systems 
+* Cloud Native, Distributed Systems 
 * Artificial Intelligence 
 * Software Design & Architecture 
 * Productivity
