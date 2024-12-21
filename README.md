@@ -18,7 +18,7 @@ My name is **Emin Vergil**, and I'm a Software Engineer at Twiser. I live in Ada
 - **Languages & Frameworks**: ASP.NET Core, Entity Framework
 - **Databases**: MSSQL, PostgreSQL, MongoDB, Redis, Oracle
 - **Message Brokers**: RabbitMQ
-- **DevOps & Cloud**: Azure DevOps, Kubernetes, Istio, Jenkins, ArgoCD, Firebase, Supabase
+- **DevOps & Cloud**: Azure DevOps, Kubernetes, Istio, Jenkins, Argo CD, Firebase, Supabase
 - **Other Tools**: OAuth 2, OpenID Connect, NHibernate, NGINX, HAProxy, Git
 
 ## 📫 Connect with Me
