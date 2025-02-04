@@ -36,6 +36,7 @@ My name is **Emin Vergil**, and I'm a Software Engineer at Twiser. I live in Ada
 * Productivity
 
 ## 📝 Latest Blog Posts
+- [Deploying .NET Aspire Microservices to Kubernetes with Aspir8 CLI and Helm](https://eminvergil.vercel.app/blog/aspire-kubernetes-helm)
 - [Implementing Single Database Multi-Tenancy with EF Core Global Query Filters](https://eminvergil.vercel.app/blog/single-database-multi-tenancy-ef-core)
 - [Azure Emulators in .NET Aspire Development](https://eminvergil.vercel.app/blog/aspire-azure-emulators)
 - [Simplifying Microservice Deployment with Aspire and Aspir8](https://eminvergil.vercel.app/blog/aspire-kubernetes-deployment)
