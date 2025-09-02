@@ -5,7 +5,7 @@
 
 Hi,
 
-My name is **Emin Vergil**, and I'm a Software Engineer at Twiser. I live in Adana, Turkey.
+My name is **Emin Vergil**, and I'm a Software Engineer. I live in Adana, Turkey.
 
 🛠 I can help your organisation with:
 
